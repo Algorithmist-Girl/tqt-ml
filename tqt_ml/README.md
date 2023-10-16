@@ -1,0 +1,1 @@
+1. Credits to "Python-for-Finance-and-Algorithmic-Trading" book, specifically Chapters 10 & 11 - https://github.com/Quantreo/2nd-edition-BOOK-AMAZON-Python-for-Finance-and-Algorithmic-Trading/blob/main/
